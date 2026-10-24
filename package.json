@@ -1,0 +1,14 @@
+{
+  "name": "taskflow-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Projet de démonstration pour la formation Claude Code (TypeScript, zéro dépendance, Node 22.18+).",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/server.ts"
+  },
+  "engines": {
+    "node": ">=22.18"
+  }
+}
